@@ -1,0 +1,6 @@
+{
+  "name": "INDRA App",
+  "description": "High-energy educational app for students featuring live revision batches, study vault, reels, and VIP arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
